@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fakestore.github.io/static/css/main.aac5dfcd.css",
+    "main.js": "/fakestore.github.io/static/js/main.68a238b6.js",
+    "index.html": "/fakestore.github.io/index.html",
+    "main.aac5dfcd.css.map": "/fakestore.github.io/static/css/main.aac5dfcd.css.map",
+    "main.68a238b6.js.map": "/fakestore.github.io/static/js/main.68a238b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac5dfcd.css",
+    "static/js/main.68a238b6.js"
+  ]
+}
